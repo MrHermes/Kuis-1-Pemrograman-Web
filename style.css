@@ -1,0 +1,17 @@
+.blog-post {
+    text-align: justify;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+btn {
+    background-color: white;
+}
+
+img {
+    height: 70vh;
+    width: 90vh;
+}
